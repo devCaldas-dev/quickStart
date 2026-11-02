@@ -41,30 +41,6 @@ No tienes que usar nunca `eject`. El conjunto de funciones seleccionadas es adec
 
 ## Aprende más
 
-Puede obtener más información en la [documentación Crear aplicación React](https://facebook.github.io/create-react-app/docs/getting-started).
+Puede obtener más información en la documentación [Crear aplicación React](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Para aprender React, consulte la [documentación de React](https://reactjs.org/).
-
-### División de código
-
-Esta sección se ha movido aquí: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code- terrible)
-
-### Análisis del tamaño del paquete
-
-Esta sección se ha movido aquí: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/ docs/analizando-el-tamaño-del-paquete)
-
-### Creación de una aplicación web progresiva
-
-Esta sección se ha movido aquí: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react- app/docs/hacer-una-aplicación-web-progresiva)
-
-### Configuración avanzada
-
-Esta sección se ha movido aquí: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced- configuración)
-
-### Despliegue
-
-Esta sección se ha movido aquí: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` no se minimiza
-
-Esta sección se ha movido aquí: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/ create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Para aprender React, consulte la documentación de [React](https://reactjs.org/).
